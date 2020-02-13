@@ -51,11 +51,4 @@
 			</plugin>
 		</plugins>
 	</build>
-	<!-- <repositories> -->
-	<!-- <repository> -->
-	<!-- <id>eyeist-dev</id> -->
-	<!-- <name>Zurelsoft repository</name> -->
-	<!-- <url>http://merosite.hait/artifactory/hait-repo/</url> -->
-	<!-- </repository> -->
-	<!-- </repositories> -->
 </project>
